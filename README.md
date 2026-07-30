@@ -96,4 +96,4 @@ This SQL analysis is part of a complete Business Analyst case study that also in
 
 • Business Findings and Business Recommendations
 
-### [View the full case study] ( https://www.notion.so/Churn-Analysis-Full-case-study-3aaf1ddf5380809296eff91877211282?source=copy_link )
+#### [View the full case study](https://www.notion.so/Churn-Analysis-Full-case-study-3aaf1ddf5380809296eff91877211282?source=copy_link)
